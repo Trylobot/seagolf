@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using seagolf.Models;
+using seagolf.Nouns;
 
 namespace seagolf.Verbs
 {

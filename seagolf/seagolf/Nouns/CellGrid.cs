@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace seagolf.Models
+namespace seagolf.Nouns
 {
-  public class Organism
+  public class CellGrid
   {
-    public OrganismEncoding encoding;
-    
+    public int[,] grid;
   }
 }

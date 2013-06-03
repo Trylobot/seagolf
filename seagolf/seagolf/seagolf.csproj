@@ -40,10 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\CellGrid.cs" />
-    <Compile Include="Models\Environment.cs" />
-    <Compile Include="Models\Organism.cs" />
-    <Compile Include="Models\OrganismEncoding.cs" />
+    <Compile Include="Nouns\CellGrid.cs" />
+    <Compile Include="Nouns\Environment.cs" />
+    <Compile Include="Nouns\Organism.cs" />
+    <Compile Include="Nouns\OrganismEncoding.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Verbs\Translate.cs" />
   </ItemGroup>

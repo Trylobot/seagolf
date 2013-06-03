@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace seagolf.Models
+namespace seagolf.Nouns
 {
   public class OrganismEncoding
   {
-    public List<int> tape;
-
+    public int[] tape;
   }
 }

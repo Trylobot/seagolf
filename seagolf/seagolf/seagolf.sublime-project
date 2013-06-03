@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"file_exclude_patterns":
+			[
+				"*.csproj",
+				"*.sublime-workspace",
+				"*.sublime-project"
+			],
+			"folder_exclude_patterns":
+			[
+				"bin",
+				"obj",
+				"Properties"
+			]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2,
+    "use_tab_stops": false
+	}
+}
